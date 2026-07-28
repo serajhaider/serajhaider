@@ -1,15 +1,16 @@
 # 💫 About Me:
-Hi 👋
-I'm
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFD62D00&width=450&height=70&lines=Seraj+Haidar+Rain)](https://git.io/typing-svg)
 
+Skills i have:
 Data Scientist |
 Machine Learning Engineer  |
 AI Enthusiast |
 Python Developer |
+MERN STACK | 
+PHP | 
+UNITY HUB | 
 
-Pursuing a Bachelor’s degree with a focus on programming, web development, and database management. Skilled in HTML, CSS, JavaScript, PHP, MySQL, C, C#, and Python. Actively working on real-world projects to build practical knowledge, improve problem-solving abilities, and develop scalable applications.<br>
-
+WHAT I WANT TO WORKIN:
 🎓 Computer Science Student
 
 📊 Interested in Data Science
