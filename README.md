@@ -1,13 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFD62D00&width=450&height=70&lines=Seraj+Haidar+Rain)](https://git.io/typing-svg)
 
-Data Scientist |
-Machine Learning Engineer  |
-AI Enthusiast |
-Python Developer |
-MERN STACK | 
-PHP | 
-UNITY HUB | 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6F758&width=435&lines=Data+Scientist+%7C+Machine+Learning+Engineer+%7C+AI+Enthusiast+%7C+Python+Developer+%7C+MERN+STACK+%7C+PHP+%7C+UNITY+HUB+%7C)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93+Computer+Science+Student)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%8A+Interested+in+Data+Science)](https://git.io/typing-svg)
