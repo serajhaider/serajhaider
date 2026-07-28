@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32FF5D&width=435&lines=SERAJ+HAIDAR+RAIN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&pause=1000&color=32FF5D&background=FF000000&vCenter=true&width=435&lines=SERAJ+HAIDAR+RAIN)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6F758&width=435&lines=Data+Scientist)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6F758&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
