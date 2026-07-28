@@ -1,14 +1,26 @@
 # 💫 About Me:
+Hi 👋
+I'm
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFD62D00&width=450&height=70&lines=Seraj+Haidar+Rain)](https://git.io/typing-svg)
 
-Hi 👋
-I'm Seraj Haidar Rain
-
-Data Scientist
-Machine Learning Engineer
-AI Enthusiast
+Data Scientist |
+Machine Learning Engineer  |
+AI Enthusiast |
+Python Developer |
 
 Pursuing a Bachelor’s degree with a focus on programming, web development, and database management. Skilled in HTML, CSS, JavaScript, PHP, MySQL, C, C#, and Python. Actively working on real-world projects to build practical knowledge, improve problem-solving abilities, and develop scalable applications.<br>
+
+🎓 Computer Science Student
+
+📊 Interested in Data Science
+
+🤖 Learning Machine Learning
+
+🧠 Deep Learning Enthusiast
+
+📈 Data Analytics
+
+🌍 Nepal
 
 
 ## 🌐 Socials:
