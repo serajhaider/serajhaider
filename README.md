@@ -1,144 +1,57 @@
-<div align="center">
+<h3><code>The Cipher Stack</code></h3>
 
-# 👋 Hi, I'm Seraj Haidar Rain
+<table><tr><td valign="top"><img src="./hxni-ascii.svg" width="370" /></td><td valign="top"><img src="./info-card.svg" width="490" /></td></tr></table>
 
+# 👋 Seraj Haidar Rain
 ### Computer Science Student • Full-Stack Developer • AI/ML Enthusiast
 
-<a href="https://github.com/serajhaider">
-  <img src="https://komarev.com/ghpvc/?username=serajhaider&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=serajhaider&label=PROFILE%20VIEWS&style=flat" />
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-0d0d0d?style=flat&logo=github&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/KATHMANDU-NEPAL-0d0d0d?style=flat&logo=googlemaps&logoColor=D4AF37" />
+</p>
 
-<br/><br/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d0d0d&text=BUILD%20%7C%20LEARN%20%7C%20SHIP&fontColor=D4AF37&fontSize=38&animation=fadeIn" width="100%" /></p>
 
-<a href="https://github.com/serajhaider">
-  <img src="https://img.shields.io/badge/GitHub-serajhaider-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://serajhaidar.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Building+full-stack+systems.;Exploring+AI%2FML+through+real+projects.;Always+learning%2C+always+shipping." /></p>
 
 ---
 
-## 🚀 About Me
+<h3><code>Contributions</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-I'm a Computer Science student at **Herald College Kathmandu**, working toward a BSc (Hons) degree affiliated with the **University of Wolverhampton**.
+<h3><code>Featured Gallery</code></h3>
+<table><tr>
+<td width="50%"><a href="https://github.com/serajhaider"><b>🏏 Cricket Analytics & Prediction</b></a><br/>AI/ML + web dashboard for cricket analytics, player performance and prediction.</td>
+<td width="50%"><a href="https://github.com/serajhaider"><b>🏠 Nepal House Price Prediction</b></a><br/>Python-based ML regression project for Nepal house-price prediction.</td>
+</tr><tr>
+<td><a href="https://github.com/serajhaider"><b>🎬 Movie Database</b></a><br/>React/Vite movie application with API-driven data.</td>
+<td><a href="https://github.com/serajhaider"><b>🚗 Nepal Ride Hub</b></a><br/>PHP/MySQL database-driven ride platform.</td>
+</tr></table>
 
-I enjoy building practical software and exploring **Data Science, Artificial Intelligence, Machine Learning, and automation**. My goal is to combine strong software engineering with data-driven systems that solve real-world problems.
+<h3><code>Tech Arsenal</code></h3>
+**Frontend / 3D**  React · Next.js · TypeScript · Vite · Tailwind CSS · Three.js · Flutter  
+**Backend / Database**  Node.js · Express.js · Python · Flask · PHP · MySQL  
+**AI / Data**  Pandas · NumPy · Scikit-learn · XGBoost · Data Visualization  
+**Tools / DevOps**  Git · GitHub · Docker · n8n · VS Code · Postman · Netlify
 
-- 🎓 Computer Science student
-- 💻 Full-stack development
-- 🤖 AI / Machine Learning
-- 📊 Data Science & predictive analytics
-- ⚙️ Workflow automation with tools such as n8n
-- 🏏 Currently developing a cricket-focused AI/ML + web FYP
-- 🇳🇵 Based in Kathmandu, Nepal
+<h3><code>What I'm Up To</code></h3>
+| Focus | Current Work |
+|---|---|
+| 🏗️ Building | Cricket analytics + ML FYP and full-stack applications |
+| 🧠 Learning | Data Science, AI/ML, predictive analytics, APIs, Docker & automation |
+| 🎯 Goal | Become internship-ready in AI/ML and Data Science |
+| 🇳🇵 Base | Kathmandu, Nepal |
 
----
+<h3><code>Achievements</code></h3>
+<a href="https://github.com/serajhaider?tab=achievements">🏆 GitHub Achievements</a> · Pair Extraordinaire · Pull Shark · YOLO · Starstruck
 
-## 🧠 Tech Stack
+<h3><code>Socials</code></h3>
+<p>
+<a href="https://github.com/serajhaider"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+<a href="https://serajhaidar.com.np"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
+</p>
 
-### Languages
-`Python` `JavaScript` `TypeScript` `Java` `C#` `PHP` `Dart` `SQL` `HTML` `CSS` `Bash`
+<!-- Add verified LinkedIn / Instagram / Facebook / email URLs here. -->
 
-### Frontend
-`React` `Next.js` `Vite` `Tailwind CSS` `Flutter`
-
-### Backend
-`Node.js` `Express.js` `Flask` `PHP` `MySQL`
-
-### AI / Data
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Machine Learning` `Data Analysis` `Data Visualization`
-
-### Tools
-`Git` `GitHub` `Docker` `n8n` `VS Code` `Unity`
-
----
-
-## 🔥 Featured Projects
-
-### 🏏 Cricket Analytics & Prediction FYP
-A web-based cricket analytics platform combining data visualization with machine learning.
-
-**Planned data:** ICC Men's Cricket World Cups 2011, 2015, 2019 and 2023.
-
-**Focus:** match analytics, player performance, visual dashboards and ML-based prediction.
-
-### 🏠 Nepal House Price Prediction
-Machine-learning regression project for predicting house prices using Python and data analysis techniques.
-
-### 🎬 Movie Database
-A React/Vite movie application using API-driven movie data with a modern frontend.
-
-### 🚗 Nepal Ride Hub
-A PHP/MySQL web application focused on ride-related services and database-driven functionality.
-
-### 🌦️ Weather App
-A web application that retrieves weather information and presents it through a user-friendly interface.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=serajhaider&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajhaider&layout=compact&hide_border=true" height="170" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=serajhaider&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/serajhaider/serajhaider/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</div>
-
----
-
-## 🎯 2026–2027 Goals
-
-- Build stronger foundations in Data Science
-- Become internship-ready in AI/ML and Data Science
-- Develop production-quality full-stack applications
-- Complete an end-to-end AI/ML FYP
-- Improve Python, statistics and machine-learning skills
-- Learn more about MLOps, APIs, Docker and automation
-- Build a stronger open-source GitHub portfolio
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/serajhaider">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace these placeholders with your real profiles -->
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Building. Learning. Experimenting. Improving.
-
-⭐ Feel free to explore my repositories and follow my journey.
-
-</div>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d0d0d&fontColor=D4AF37" width="100%" /></p>
