@@ -7,13 +7,13 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=serajhaider&label=PROFILE%20VIEWS&style=flat" />
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-0d0d0d?style=flat&logo=github&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/KATHMANDU-NEPAL-0d0d0d?style=flat&logo=googlemaps&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-0d0d0d?style=flat&logo=github&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/KATHMANDU-NEPAL-0d0d0d?style=flat&logo=googlemaps&logoColor=60A5FA" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d0d0d&text=BUILD%20%7C%20LEARN%20%7C%20SHIP&fontColor=D4AF37&fontSize=38&animation=fadeIn" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d0d0d&text=BUILD%20%7C%20LEARN%20%7C%20SHIP&fontColor=60A5FA&fontSize=38&animation=fadeIn" width="100%" /></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Building+full-stack+systems.;Exploring+AI%2FML+through+real+projects.;Always+learning%2C+always+shipping." /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Building+full-stack+systems.;Exploring+AI%2FML+through+real+projects.;Always+learning%2C+always+shipping." /></p>
 
 ---
 
@@ -48,10 +48,10 @@
 
 <h3><code>Socials</code></h3>
 <p>
-<a href="https://github.com/serajhaider"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-<a href="https://serajhaidar.com.np"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
+<a href="https://github.com/serajhaider"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=60A5FA" /></a>
+<a href="https://serajhaidar.com.np"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" /></a>
 </p>
 
 <!-- Add verified LinkedIn / Instagram / Facebook / email URLs here. -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d0d0d&fontColor=D4AF37" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d0d0d&fontColor=60A5FA" width="100%" /></p>
