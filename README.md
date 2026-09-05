@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/KATHMANDU-NEPAL-0d0d0d?style=flat&logo=googlemaps&logoColor=60A5FA" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d0d0d&text=BUILD%20%7C%20LEARN%20%7C%20SHIP&fontColor=60A5FA&fontSize=38&animation=fadeIn" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0f172a&text=BUILD%20%7C%20LEARN%20%7C%20SHIP&fontColor=7DD3FC&fontSize=38&animation=fadeIn" width="100%" /></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Building+full-stack+systems.;Exploring+AI%2FML+through+real+projects.;Always+learning%2C+always+shipping." /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Building+full-stack+systems.;Exploring+AI%2FML+through+real+projects.;Always+learning%2C+always+shipping." /></p>
 
 ---
 
@@ -54,4 +54,4 @@
 
 <!-- Add verified LinkedIn / Instagram / Facebook / email URLs here. -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d0d0d&fontColor=60A5FA" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0f172a&fontColor=7DD3FC" width="100%" /></p>
