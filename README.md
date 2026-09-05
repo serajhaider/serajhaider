@@ -17,9 +17,6 @@
 
 ---
 
-<h3><code>Contributions</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
 <h3><code>Featured Gallery</code></h3>
 <table><tr>
 <td width="50%"><a href="https://github.com/serajhaider"><b>🏏 Cricket Analytics & Prediction</b></a><br/>AI/ML + web dashboard for cricket analytics, player performance and prediction.</td>

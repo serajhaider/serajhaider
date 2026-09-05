@@ -26,20 +26,13 @@ Then run:
 python scripts/prep_photo.py hero.png
 python scripts/make_ascii_svg.py
 python scripts/make_info_card.py
-python scripts/fetch_contributions.py
-python scripts/render_heatmap_svg.py
 ```
 
 ## 4. Push
-Commit and push the generated `source-prepped.png`, `hxni-ascii.svg`, `info-card.svg`, `contrib-heatmap.svg`, and `data/contributions.json`.
+Commit and push the generated `source-prepped.png`, `hxni-ascii.svg`, and `info-card.svg`.
 
-## 5. Enable automation
-GitHub Actions will run `.github/workflows/update-profile-art.yml` daily at **06:17 UTC** and can also be run manually using **Run workflow**.
-
-The CI intentionally installs only the lightweight requirements because the portrait preparation is a local asset-generation step.
-
-## 6. Personal links
+## 5. Personal links
 The original prompt asks for LinkedIn, Instagram, Facebook and email. Exact values were not available, so those are left as safe placeholders rather than inventing URLs.
 
-## 7. Important GitHub limitation
+## 6. Important GitHub limitation
 GitHub sanitizes/restricts some HTML, CSS and SVG behavior inside README rendering. The generated SVG files are self-contained, while the README uses standard externally hosted SVG widgets for the typing and header effects. The daily workflow is independent of those external widgets.
